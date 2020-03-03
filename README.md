@@ -1,8 +1,9 @@
 # Machine Learning With Python and Spark
 This repository is about implementation of ML(LIB) library in pyspark implementing regression, classification and clustering techniques.
+Creating RDD's and apply transformations and actions.
 
-## Python Version :- 3.6
-## Spark version :- 2.3.3
+### Python Version :- 3.6
+### Spark version :- 2.3.3
 
 <img src="https://github.com/kishanpython/Machine-Learning-Using-Python-Spark/blob/master/Spark_RDD_Example/Data/spark.png"></img>
 
@@ -23,5 +24,5 @@ Spark Context is created and provide as (sc) variable.
 To check verison type :- sc.version
 
 <ul>
-  <li><a href="https://eu-gb.dataplatform.cloud.ibm.com/">IBM Watson Link</a><li>
+  <li><a href="https://eu-gb.dataplatform.cloud.ibm.com/">IBM Watson Link</a></li>
 </ul>
